@@ -1,11 +1,10 @@
 # tantan Task
-#徐义义(connor)
-#Tel:18660885363
-#Email:1042304323@qq.com
+#connor
 
 修改config.conf文件，将PostgreSQL数据库的用户名和密码换成需要连接的数据库的用户名和密码
 
 有两种运行方式：
+
 	1）是在Windows下，双击运行ttTask.exe（注意执行的时候必须和config.conf在同一个目录）
 	2）源码运行，则需要	
 		"github.com/goconf/conf"
